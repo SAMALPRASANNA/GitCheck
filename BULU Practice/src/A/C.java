@@ -10,7 +10,7 @@ public class C {
     
 	a.test1();
 	b.test2();
-	
+	System.out.prinln (14879);
 
 }
 }
